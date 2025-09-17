@@ -49,6 +49,10 @@ a:visited{
     color: #3cb4e7;
 }
 
+figure{
+    margin: 15px 0;
+}
+
 ul {
     text-align: left;
     padding: 0;
