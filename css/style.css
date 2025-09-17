@@ -9,6 +9,10 @@ body{
 .small-text{
     font-size: 12px;
 }
+
+.w-50{
+    width: 50%;
+}
 /*  */
 
 .container{
@@ -48,4 +52,17 @@ ul {
     text-align: left;
     padding: 0;
     list-style-position: inside;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
+th{
+    background-color: #20a9e5;
+    color: white;
+    height: 10px;
+}
+tbody > tr:nth-child(2n+1) {
+    background-color: #b1e5f2;
 }
