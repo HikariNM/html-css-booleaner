@@ -6,6 +6,9 @@ body{
     color: grey;
 }
 
+.small-text{
+    font-size: 12px;
+}
 /*  */
 
 .container{
@@ -41,6 +44,8 @@ a:visited{
     color: #3cb4e7;
 }
 
-time{
-    font-size: 15px;
+ul {
+    text-align: left;
+    padding: 0;
+    list-style-position: inside;
 }
