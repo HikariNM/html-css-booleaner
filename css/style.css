@@ -24,7 +24,7 @@ body{
 .header{
     background-color: dodgerblue;
     background-image: url(../img/pattern.png);
-    background-size: 20%;
+    background-size: 240px;
     height: 70px;
 }
 
